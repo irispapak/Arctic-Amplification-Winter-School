@@ -1,6 +1,6 @@
 # Arctic Amplification: Clouds and Feedback Mechanisms
 
-This repository contains analysis scripts and notebooks developed for the **Arctic Amplification (AC)³** Winter School organized by the University of Helsinki (2023). The project focuses on the role of clouds in Arctic feedback mechanisms, specifically examining how changes in surface temperature respond to radiative forcing.
+This repository contains analysis scripts and notebooks developed during the **Arctic Amplification (AC)³** Winter School organized by the (AC)³ project and the University of Helsinki (2023). The project focuses on the role of clouds in Arctic feedback mechanisms, specifically examining how changes in surface temperature respond to radiative forcing.
 
 ## Scientific Context
 
